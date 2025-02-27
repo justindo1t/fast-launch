@@ -34,7 +34,7 @@ Vis (plotly)
 3. auto-sklearn (自动化调参)
 4. auto-pands (Auto-EDA)
 
-1. PyTorch
+1. PyTorch | einops
 2. Huggingface | transformer | tokenizer | datasets
 3. Jax
 4. TensorFlow | Keras (For run other's SOTA model)
